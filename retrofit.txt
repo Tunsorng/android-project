@@ -1,0 +1,4 @@
+Retrofit : REST client
+-Service generator => the class use for creating retrofit object and => them create service object
+-Service => nap enpoints
+-requesting/execute
